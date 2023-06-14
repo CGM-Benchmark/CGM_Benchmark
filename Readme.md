@@ -104,4 +104,4 @@ bash scripts/inf_sample.sh
 
 ## License
 
-This project is under the CC-BY-NC 4.0 license. See [LICENSE](./LICENSE).
+This project is under the Creative Commons CC BY 4.0 license. See [LICENSE](https://creativecommons.org/licenses/by/4.0/).
