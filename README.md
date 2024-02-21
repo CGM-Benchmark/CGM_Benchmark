@@ -20,20 +20,20 @@ conda activate cgm_benchmark
 ### Custom-Blender 
 The dataset can be downloaded from [here](https://drive.google.com/drive/folders/1dqAFG8E2IuAsu80UJJ6VvRHJaOrLmgsz?usp=sharing). 
 <p align="center">
-  <img src ="imgs/C_Blender.png"  width="300"/>
+  <img src ="imgs/C_Blender.png"  width="500"/>
 </p>
 
 ### Custom-MSCOCO
 The dataset can be downloaded from [here](https://drive.google.com/drive/folders/11R2k1pLzGOr-2e0XU5MqGMk_2kp6D0nw?usp=sharing). 
 <p align="center">
-  <img src ="imgs/C_MSCOCO.png"  width="300"/>
+  <img src ="imgs/C_MSCOCO.png"  width="500"/>
 </p>
 
 ### Custom-Domain
 The dataset can be downloaded from [here](https://drive.google.com/drive/folders/15i59dCN3MAz0HaZBL5M6UHPiFFjDDCFN?usp=sharing). 
 
 <p align="center">
-  <img src ="imgs/C_domain.png"  width="300"/>
+  <img src ="imgs/C_domain.png"  width="500"/>
 </p>
 
 
