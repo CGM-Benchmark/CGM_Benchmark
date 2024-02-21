@@ -20,20 +20,20 @@ conda activate cgm_benchmark
 ### Custom-Blender 
 The dataset can be downloaded from [here](https://drive.google.com/drive/folders/1dqAFG8E2IuAsu80UJJ6VvRHJaOrLmgsz?usp=sharing). 
 <p align="center">
-  <img src ="imgs/C_Blender.png"  width="500"/>
+  <img src ="imgs/C_Blender.png"  width="400"/>
 </p>
 
 ### Custom-MSCOCO
 The dataset can be downloaded from [here](https://drive.google.com/drive/folders/11R2k1pLzGOr-2e0XU5MqGMk_2kp6D0nw?usp=sharing). 
 <p align="center">
-  <img src ="imgs/C_MSCOCO.png"  width="500"/>
+  <img src ="imgs/C_MSCOCO.png"  width="400"/>
 </p>
 
 ### Custom-Domain
 The dataset can be downloaded from [here](https://drive.google.com/drive/folders/15i59dCN3MAz0HaZBL5M6UHPiFFjDDCFN?usp=sharing). 
 
 <p align="center">
-  <img src ="imgs/C_domain.png"  width="500"/>
+  <img src ="imgs/C_domain.png"  width="400"/>
 </p>
 
 
@@ -56,7 +56,7 @@ For using Denoising autoencder inspired energy function you can use the followin
 ```
 --is_ae
 ```
-You can refer to this line for Energy functions used for training here [Line](https://github.com/CGM-Benchmark/CGM_Benchmark/blob/main/composable_diffusion/unet.py#L1034)
+You can refer to this line for Energy functions used for training here [Line](https://github.com/CGM-Benchmark/CGM_Benchmark/blob/main/composable_diffusion/unet.py#L918)
 
 ## Evaluations
 For evaluations we provide our evaluation data/indexes used to get the FID and accuracy reported in the paper. You can also download the checkpoints of our trained diffusion models provided [here](https://drive.google.com/drive/folders/1rsScCeNBXz8-gabt5N-OawjHmTt9vRDU?usp=sharing).
