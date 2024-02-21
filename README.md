@@ -2,7 +2,7 @@
 
 This is the pytorch code for Training and Evaluations proposed in  **Benchmark for Continual Generative Modeling**.
 
-![ezgif com-video-to-gif (1)](incremental_mscoco.gif)
+![ezgif com-video-to-gif (1)](imgs/incremental_mscoco.gif)
 --------------------------------------------------------------------------------------------------------
 * The codebase is built upon [GLIDE-Finetune](https://github.com/afiaka87/glide-finetune) and [Composable Diffusion](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch).
 
@@ -19,12 +19,23 @@ conda activate cgm_benchmark
 
 ### Custom-Blender 
 The dataset can be downloaded from [here](https://drive.google.com/drive/folders/1dqAFG8E2IuAsu80UJJ6VvRHJaOrLmgsz?usp=sharing). 
+<p align="center">
+  <img src ="imgs/C_Blender.png"  width="300"/>
+</p>
 
 ### Custom-MSCOCO
 The dataset can be downloaded from [here](https://drive.google.com/drive/folders/11R2k1pLzGOr-2e0XU5MqGMk_2kp6D0nw?usp=sharing). 
+<p align="center">
+  <img src ="imgs/C_MSCOCO.png"  width="300"/>
+</p>
 
-### Custom-MSCOCO
+### Custom-Domain
 The dataset can be downloaded from [here](https://drive.google.com/drive/folders/15i59dCN3MAz0HaZBL5M6UHPiFFjDDCFN?usp=sharing). 
+
+<p align="center">
+  <img src ="imgs/C_domain.png"  width="300"/>
+</p>
+
 
 Now, you can provide the path of the npz file in the training script. 
 
